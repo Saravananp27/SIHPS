@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:28-11-2024
-## Register Number:24900140
-## Name: NAVEEN KUMAR S
+# Date:26.05.25
+## Register Number:212224230253
+## Name: SARAVANAN P
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
